@@ -719,6 +719,10 @@ ul li.section-two-li-item {
     fill: #4D5AE5;
 }
 
+.modal-textarea {
+    margin-bottom: 16px;
+}
+
 .form-textarea {
     width: 100%;
     height: 120px;
