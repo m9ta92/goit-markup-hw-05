@@ -766,11 +766,7 @@ ul li.section-two-li-item {
     fill: transparent;
 }
 
-.checkbox-icon-svg {
-
-}
-
-.input-checkbox.checked {
+input[type="checkbox"]:checked + label .checkbox-icon {
     background-color: #404bbf;
     border: none;
     fill: #F4F4FD;
